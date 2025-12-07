@@ -1,4 +1,4 @@
-# 🚀 Zero Downtime Lambda Function Updates
+# 🚀 Zero Downtime Lambda Function-Updates
 
 This project demonstrates how to **update an AWS Lambda function with zero downtime** using **Lambda versions, aliases, API Gateway stage variables, and weighted traffic shifting**.  
 
